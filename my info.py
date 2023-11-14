@@ -1,4 +1,4 @@
-{
+my_info={
   "Name": "Mohd Ameenur Rahman",
   "Qualification": "CSE 3rd year",
   "institution": "Lords institute of engg and tech",
